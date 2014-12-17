@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails toy_app: development" uuid="3842a444-b1d6-4ceb-9af6-466b434134f4">
+      <user-name>super</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+    </data-source>
+    <data-source name="Rails toy_app: test" uuid="70e12570-3502-4ca4-b929-9f174e6fb91d">
+      <user-name>super</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+    </data-source>
+    <data-source name="Rails toy_app: production" uuid="daa6ef06-f601-4e08-bdc5-dd127c819ba2">
+      <user-name>toy_app</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedfe5dff3dff5dfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
